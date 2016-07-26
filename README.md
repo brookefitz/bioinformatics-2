@@ -1,3 +1,4 @@
 # bioinformatics-2
 
-second github repository of this class :)
+
+new repository; testing for a class
