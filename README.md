@@ -1,3 +1,3 @@
 # bioinformatics-2
 
-second github repository of this class :)
+second github repository of my bioinformatics course
